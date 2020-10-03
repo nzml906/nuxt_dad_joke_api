@@ -1,4 +1,4 @@
-# nuxt-demo
+# api
 
 # https://icanhazdadjoke.com/api
 
